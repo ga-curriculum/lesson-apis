@@ -11,7 +11,7 @@
 ## Learning Objectives
 *After this lesson, students will be able to:*
 
-1. Explain what an application program interface (API) is.
+1. Explain what an application programming interface (API) is.
 1. Explain the very basics of HTTP and how it's used to get data from the web.
 1. Use the `requests` library to submit HTTP requests from Python.
 1. Use a free Python API to access real-time stock prices.
